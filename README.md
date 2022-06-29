@@ -37,7 +37,7 @@ In the command line navigate in to "Credentials Manager Level 35" folder, type
 
 The same must be done for in "backend" and "frontend" folders.
 
-Then Navigate back to "Credentials Manager Level 35" folder in the command line and type `npm start`and press "enter".
+Then Navigate back to "Credentials Manager" folder in the command line and type `npm start`and press "enter".
 
 
 
