@@ -1,0 +1,60 @@
+.user-assign-container{
+    margin: 20px 0;
+}
+
+.user-assign-container>form{
+    background-color: rgba(0, 0, 0, 0.2);
+    padding: 12px 0;
+}
+
+.user-assign-container>form>h3{
+    text-align: center;
+    color: #000000;
+}
+
+.user-assign-container>p{
+    text-align: center;
+    color: black;
+}
+
+.form-assign-wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.user-assign-container>h2{
+    text-align: center;
+    color: black;
+}
+
+.user-assign-role{
+    text-align: center;
+    padding-top: 10px;
+}
+
+.user-assign-role>select{
+    padding: 3px;
+}
+
+.user-assign-submit{
+    text-align: center;
+    margin: 10px;
+}
+
+.user-assign-submit>button{
+    margin: 5px;
+    padding: 7px 40px;
+    font-size: 12px;
+}
+
+.user-assign-submit>button:hover{
+    cursor: pointer;
+    transform: scale(1.02);
+    background-color: #0e75b1;
+}
+
+.users-container>h2{
+    text-align: center;
+    color: #000000;
+}

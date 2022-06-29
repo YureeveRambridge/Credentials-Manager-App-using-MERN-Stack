@@ -1,0 +1,10 @@
+.orgunit-container{
+    background-color: rgba(172, 171, 163, 0.6);
+    margin: 5px;
+    padding: 10px 40px;
+    color: #000000;
+}
+
+.orgunit-container>h2{
+    text-align: center;
+}

@@ -1,0 +1,10 @@
+.division-container{
+    background-color: rgba(151, 145, 145, 0.6);
+    margin: 10px 5px;
+    padding: 10px 50px;
+}
+
+.division-container>h2{
+    text-align: center;
+    color: #000000;
+}

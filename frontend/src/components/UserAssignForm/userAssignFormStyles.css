@@ -1,0 +1,25 @@
+.user-form-container{
+    background-color: sandybrown;
+    margin: 5px;
+    padding: 20px;
+    text-align: center;
+    width: 20%;
+}
+
+.user-form-container>h2{
+    color: #000000;
+    font-size: 15px;
+    font-weight: bold;
+
+}
+
+.user-form-container>div>h3{
+    color: #000000;
+    font-weight: bold;
+    font-size: medium;
+}
+
+.user-form-container>div>p{
+    font-weight: bold;
+    color: #000000;
+}
