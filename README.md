@@ -32,7 +32,7 @@ be different user roles for the employees.
 
 Clone the repository and extract the folder.
 
-In the command line navigate in to "Credentials Manager Level 35" folder, type
+In the command line navigate in to "Credentials Manager" folder, type
 `npm install`, and press enter.
 
 The same must be done for in "backend" and "frontend" folders.
