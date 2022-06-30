@@ -1,12 +1,12 @@
 {
   "name": "backend",
-  "version": "0.0.0",
+  "version": "0.0.0", 
+  "private": true,
   "scripts": {
     "start": "nodemon ./bin/www & cd frontend & npm start",
     "client": "npm start --prefix client",
     "clientinstall": "npm install --prefix client",
-    "dev": "concurrently \"npm run \" \"npm run cd frontend",
-    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix client && npm run build --prefix client"
+    "dev": "concurrently \"npm run \" \"npm run cd frontend"
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
